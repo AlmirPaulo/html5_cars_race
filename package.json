@@ -1,0 +1,25 @@
+{
+  "name": "simple-cars-race-game",
+  "version": "1.0.0",
+  "description": "A browser game made with HTML, CSS and JS. A simple cars race game.",
+  "main": "index.html",
+  "scripts": {
+    "start": "firefox index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlmirPaulo/html5_cars_race.git"
+  },
+  "keywords": [
+    "html5",
+    "game",
+    "js",
+    "javascript"
+  ],
+  "author": "Almir Paulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlmirPaulo/html5_cars_race/issues"
+  },
+  "homepage": "https://github.com/AlmirPaulo/html5_cars_race#readme"
+}
